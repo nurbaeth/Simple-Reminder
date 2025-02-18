@@ -19,7 +19,7 @@ Run the script:
 ```bash
 python reminder.py
 ```
-Then follow the prompts to enter a message and time in minutes.
+Then follow the prompts to enter a message and time in minutes. 
 
 ## 🛠️ Requirements
 - Python 3+
