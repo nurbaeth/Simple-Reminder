@@ -32,7 +32,7 @@ Enter time in minutes: 1
 Reminder set for 1 minute.
 ```
 After 1 minute, a desktop notification will appear.
-
+  
 ## 📜 License
 This project is open-source under the MIT License.
 
