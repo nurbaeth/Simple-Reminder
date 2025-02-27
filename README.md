@@ -15,7 +15,7 @@ pip install plyer
 ```  
 
 ## ▶️ Usage  
-Run the script: 
+Run the script:  
 ```bash 
 python reminder.py
 ``` 
