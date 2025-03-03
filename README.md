@@ -17,7 +17,7 @@ pip install plyer
 ## ▶️ Usage  
 Run the script:   
 ```bash  
-python reminder.py
+python reminder.py 
 ``` 
 Then follow the prompts to enter a message and time in minutes. 
 
