@@ -11,7 +11,7 @@ Simple Reminder is a lightweight Python console application that allows you to s
 ## 📦 Installation
 Ensure you have Python installed, then install dependencies:
 ```bash 
-pip install plyer
+pip install plyer  
 ```  
 
 ## ▶️ Usage  
