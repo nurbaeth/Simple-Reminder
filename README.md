@@ -14,7 +14,7 @@ Ensure you have Python installed, then install dependencies:
 pip install plyer  
 ```  
 
-## ▶️ Usage  
+## ▶️ Usage   
 Run the script:    
 ```bash  
 python reminder.py 
